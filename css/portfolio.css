@@ -77,16 +77,17 @@ body {
 }
 /*--FILTER--*/
 
-.filter-btn {
+.works-filter-btn {
+    font-family: inherit;
     font-weight: 500;
     font-size: 16px;
-    line-height: 1,62;
+    line-height: 1.62;
     text-align: center;
     letter-spacing: 0.03em;
     color: var(--btn-color)
 }
-.filter-btn:hover,
-.filter-btn:focus {
+.works-filter-btn:hover,
+.works-filter-btn:focus {
     color: #FFFFFF;
     cursor: pointer;
 }
@@ -140,7 +141,7 @@ body {
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
-    line-height: 1, 71;
+    line-height: 1.71;
     letter-spacing: 0.03em;
     color: #FFFFFF;
     background-color: #757575;
@@ -155,7 +156,7 @@ body {
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
-    line-height: 1, 71;
+    line-height: 1.71;
     letter-spacing: 0.03em;
     color: rgba(255, 255, 255, 0.6);
     background-color: #757575;
